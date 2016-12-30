@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '22.0.1'
+
+    defaultConfig {
+        applicationId "com.ganesh.eduslate"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 3
+        versionName "1.1"
+    }
+    signingConfigs {
+        releaseConfig {
+            storeFile file("eduslate.jks");
+            storePassword("619619");
+            keyAlias "eduslate";
+            keyPassword "390390";
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            debuggable false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.releaseConfig
+        }
+        debug {
+            applicationIdSuffix ".debug"/* debug version of app in same device*/
+            debuggable true
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.google.android.gms:play-services-ads:10.0.1'
+}

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7a4e6fa160a1758cceebf4f66271533b479de54">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c35e4bb193eded123b679170b48ded7c9dd7ff70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_de8055b1c70a33b98cdb5cc8c55fd370807fc007\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f74052cd073c28af318073bc95b791ffb6e9cf40">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fea15a5be8aa129154d102aeeb3179922fcc4656\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-10.0.1_de8055b1c70a33b98cdb5cc8c55fd370807fc007.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_ee292d9353d92033afe460cfc7009800da0caf21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d5435ff0bf11ee3c9e2eda7ce54859970656767f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_067a3f60eaffde6d3651294671c3afe275fc1bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_2acfeb6bda6cfaf5252aaca7614c467f941f4320\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_d5435ff0bf11ee3c9e2eda7ce54859970656767f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-10.0.1_ee292d9353d92033afe460cfc7009800da0caf21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-10.0.1_bafed056c80893ebbccb203b9a0b504b95a970f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-10.0.1_fd761fc45979efe864c249785f04f0acfae5bc39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.0.0_2acfeb6bda6cfaf5252aaca7614c467f941f4320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-10.0.1_067a3f60eaffde6d3651294671c3afe275fc1bf0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_fd761fc45979efe864c249785f04f0acfae5bc39\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-10.0.1_e1815591f679e57eebfe26831376e214c4ecd25c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\support-annotations-24.0.0_c35da5f933849933eac177f147f2f8eb82e79d31.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_e1815591f679e57eebfe26831376e214c4ecd25c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-10.0.1_caa199ef9dfc167c401eea40559011445d67df3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_bafed056c80893ebbccb203b9a0b504b95a970f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_caa199ef9dfc167c401eea40559011445d67df3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="Z:\Team\Sakthivel\Android\And Projects\Webview-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_c35da5f933849933eac177f147f2f8eb82e79d31\classes.dex" />
+    </item>
+
+</items>
